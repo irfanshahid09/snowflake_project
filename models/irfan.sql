@@ -1,0 +1,1 @@
+select * from de_eccom.de_schema.users
